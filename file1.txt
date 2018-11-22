@@ -1,3 +1,3 @@
 #bin = "software"
 
-another complicate program
+another complicate program. Actually is not very complicated
